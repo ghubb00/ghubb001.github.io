@@ -4,7 +4,7 @@ About a week after my technical interview, I received an offer and a few days af
 
 *A brief sigh of relief…*
 
-![alt text] (images/Dorian_2019-09-02_0616Z_(2h16_am_local).jpg)
+![image](images/Dorian_2019-09-02_0616Z_(2h16_am_local).jpg)
 
 After an awaited call, my parents shared mutual excitement.  Ecstatically, I overlooked the challenges of starting a new job.  In just about a month, I had to arrange my absence with my university, find housing, and finalize government paperwork.  The latter two came procedurally as existing resources from KSC’s education office guided me though indoc procedures.  School arrangements initially posed an issue as I was researching in Miami and given the circumstances, in situ advising would be logistically impossible.  
 
