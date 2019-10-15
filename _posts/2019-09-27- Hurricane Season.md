@@ -1,5 +1,5 @@
 
-<img src="/images/Dorian_2019-09-02_0616Z_(2h16_am_local).jpg" alt="Dorian_radar" width="400" class="center"/>
+<img src="/images/Dorian_2019-09-02_0616Z_(2h16_am_local).jpg" alt="Dorian_radar" width="400" />
 
   Stepping out of my summer research in Miami, I was not expecting to carry on additional studies in Florida.  While I applied for this Kennedy position in the Spring, I did not prepare for an immediate response.  Internships, especially at desirable tech hubs, receive so many applicants that I feel as though receiving an interview can largely boil down to a number’s game.  I will make a more detailed post about my interview process in the future.  
 
