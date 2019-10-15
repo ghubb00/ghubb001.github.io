@@ -1,4 +1,4 @@
-![GitHubPages_Logo](/images/githubpages.png#center)
+![GitHubPages_Logo](/images/githubpages.png)
 
 Before creating this blog, I did a decent amount of research on hosting platforms.  Given my budget, as well as limited experience with web development, I concluded that gitpages would be my best option.  My reasoning is better explained below. 
  
