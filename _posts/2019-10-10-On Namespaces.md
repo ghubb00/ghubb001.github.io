@@ -1,5 +1,5 @@
 
-Over this Fall, I have spent a decent amount of time parsing various namespaces.  
+Over this Fall, I have spent a decent amount of time parsing various namespaces.  Hopefully, this post will be helpful to anyone in my same position.  
 
 ### What exactly is a namespace?
 
