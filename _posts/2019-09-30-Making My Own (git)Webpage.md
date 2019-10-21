@@ -3,8 +3,9 @@
 Before creating this blog, I did a decent amount of research on hosting platforms.  Given my budget, as well as limited experience with web development, I concluded that gitpages would be my best option.  My reasoning is better explained below. 
  
 ### Making a gitwebsite: 
-Creating a gitwebsite is rather simple.  There are many *free resources available online.  Personally, I believe git’s official guide is extremely useful:  
-https://guides.github.com/features/pages/
+Creating a gitwebsite is rather simple.  There are many *free* resources available online.  Personally, I believe git’s official guide is extremely useful:  
+
+[github guide](https://guides.github.com/features/pages/)
  
 ### What does GitHub pages offer?:
 According to git’s official documentation – “GitHub Pages are public webpages hosted and easily published through GitHub.”  Essentially, “pages” is a simple web host for HTML/CSS files on your git repository.  GitHub allows for free static page hosting without backend ability.   
@@ -27,12 +28,12 @@ That being said, git is obviously not the only option for personal hosting, and 
 Relevant information:  
  
 Top level web hosting wiki description:  
-https://en.wikipedia.org/wiki/Web_hosting_service
+[https://en.wikipedia.org/wiki/Web_hosting_service](https://en.wikipedia.org/wiki/Web_hosting_service)
  
  
 GitHub pages official documentation:  
-https://help.github.com/en/categories/github-pages-basics
+[https://help.github.com/en/categories/github-pages-basics](https://help.github.com/en/categories/github-pages-basics)
  
 On Markdown (.md) files:  
-https://www.markdownguide.org/getting-started/
+[https://www.markdownguide.org/getting-started/](https://www.markdownguide.org/getting-started/)
 
