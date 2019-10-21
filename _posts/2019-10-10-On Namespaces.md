@@ -31,7 +31,7 @@ int main()
   return EXIT_SUCCESS;
 }
 ```
-note that in this hello world program, cout and endl are members of the standard namespace or (std).  
+* note that in this hello world program, cout and endl are members of the standard namespace or (std). *
 
 <p>
 I don’t think it was my instructor’s fault because for all practical purposes, a mechanical understanding of namespace structure is definitely not required for introduction to programming students.  For myself, I simply just assumed its use was akin to a class.  And in a sense, from an organizational perspective, I wasn’t wrong.  Technically, name spaces and classes function much differently from each other in C+
