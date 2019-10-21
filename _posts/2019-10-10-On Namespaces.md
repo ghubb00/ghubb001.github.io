@@ -1,6 +1,6 @@
 # Namespaces
 
-Over this Fall, I have spent a decent amount of time parsing various namespaces.  I hope this f
+Over this Fall, I have spent a decent amount of time parsing various namespaces.  
 
 ###### What exactly is a namespace?
 
