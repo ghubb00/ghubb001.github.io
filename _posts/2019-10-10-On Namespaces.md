@@ -37,7 +37,7 @@ int main()
 I don’t think it was my instructor’s fault because for all practical purposes, a mechanical understanding of namespace structure is definitely not required for introduction to programming students.  For myself, I simply just assumed its use was akin to a class.  And in a sense, from an organizational perspective, I wasn’t wrong.  Technically, name spaces and classes function much differently from each other in C+
 
 See:
-https://www.geeksforgeeks.org/difference-namespace-class/
+[https://www.geeksforgeeks.org/difference-namespace-class/](https://www.geeksforgeeks.org/difference-namespace-class/)
 </p>
 
 <p>
@@ -46,9 +46,13 @@ In retrospect, I think the bulk of my confusion came from the idea of the “fre
 
 <p>
 On a top-level,  namespaces provide another step of organization for large programming projects.  A great analogy for this is given in Alex Allain’s Jumping Into C++, 
+</p>
 
-> “A name space functions in the same way that a company division might function -- inside a name space you include all functions appropriate for fulfilling a certain goal.”
+<p>
+>“A name space functions in the same way that a company division might function -- inside a name space you include all functions appropriate for fulfilling a certain goal.”
+</p>
 
+<p>
 As mentioned before, my software development internship has recently sparked a newfound point of confusion and interest in name space structure.  While I had a functional idea of their use, I believe that the frequency and abstraction in large, department level development set me off.  Through exposure and independent study, my understanding has definitely cleared up.    
 </p>
 
