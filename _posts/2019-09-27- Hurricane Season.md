@@ -14,5 +14,3 @@
   Upon arrival in Titusville,  I had one week to settle down and prepare for work.  I spent most of my time exploring the space coast and socializing with other early arriving interns.  The exposure to such a diverse group of goal-driven, highly motivated individuals was extremely memorable.  Regardless of background, all interns shared the common ambition towards space exploration.  I imagine (or like to imagine) that this is how the initial astronauts felt upon selection.  This unified energy carried on into the weeklong orientation.  While learning about various engineering practices imperative to our semester work, we received daily tours of America’s launch capital.  Ironically, this energy was temporarily suspended by Hurricane Dorian and the subsequent base closure for the week.  As expected, Florida takes hurricanes a little more seriously than the Northeast.  
 
 In forward, I’m excited to be assigned to my project and hope my subsequent content is as exciting as my first two weeks.  
-
--Greg
