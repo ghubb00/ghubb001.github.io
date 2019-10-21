@@ -49,7 +49,7 @@ On a top-level,  namespaces provide another step of organization for large progr
 </p>
 
 <p>
->“A name space functions in the same way that a company division might function -- inside a name space you include all functions appropriate for fulfilling a certain goal.”
+>A name space functions in the same way that a company division might function -- inside a name space you include all functions appropriate for fulfilling a certain goal.
 </p>
 
 <p>
