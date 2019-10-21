@@ -1,8 +1,7 @@
-# Namespaces
 
 Over this Fall, I have spent a decent amount of time parsing various namespaces.  
 
-###### What exactly is a namespace?
+##### What exactly is a namespace?
 
 <p>
 It is ironic that, while namespace syntax is one of the first lines of code copied in a beginners C++ class, its function remains mysterious.  In my experience, I simply remembered to hard-wire my programs to always “include namespace std;.”  This changed a little as I progressed into slightly more structured programs, but for the most part, “include namespace std;” became a common practice.  
@@ -53,15 +52,19 @@ On a top-level,  namespaces provide another step of organization for large progr
 As mentioned before, my software development internship has recently sparked a newfound point of confusion and interest in name space structure.  While I had a functional idea of their use, I believe that the frequency and abstraction in large, department level development set me off.  Through exposure and independent study, my understanding has definitely cleared up.    
 </p>
 
-###### Other notes:
+##### Other notes:
 
 While tracing code, I was unfamiliar with the practice of nesting name spaces.  A comparison of nested vs non-nested namespaces is shown below.  
 
+```
 Using namespace _NameSpaceName
-Makes all content (classes/functions/variables) visible to the scope of the call
+//Makes all content (classes/functions/variables) visible to the scope of the call
+```
 
+```
 Using _NameSpaceName::NameSpaceName_Class
-Makes only the specific class of the namespace visible to the scope of the call
+//Makes only the specific class of the namespace visible to the scope of the call
+```
 
 
 
