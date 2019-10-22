@@ -1,4 +1,5 @@
 #### Intern Command and Control System Software Developer ###
+<img src="/images/greg_NE-XS_nametag.jpeg" alt="GregoryHubbardNameTag" width="400" />
 
 **Introduction**
  <br>
