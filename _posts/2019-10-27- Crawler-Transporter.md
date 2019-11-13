@@ -1,6 +1,6 @@
 <img src="/images/CrawlerPreliminaryConcept.PNG" alt="Crawler Concept" width="400" />
 
-####The NASA Crawler:
+#### The NASA Crawler:
 <p>Today I had the unique privilege of touring the iconic Crawler-Transporter. 
 This relic of the Apollo era has been used to transport every Kennedy Center rocket since 1965.
 Currently the crawler is under retrofitting for use on the SLS rocket.  
@@ -9,7 +9,7 @@ Following the announcement of the Saturn V rocket, it was concluded that convent
 To avoid the corrosive salt air, electrical storms, and hurricanes, a 40-story hanger (now called the VAB) was constructed to protect the assembly of orbital rockets. 
 Theoretically, this precaution is sound - with one major issue:</p>
 
->How to move a 6 million pound rocket ~3.5 miles for launch.
+>*How to move a 6 million pound rocket ~3.5 miles for launch.*
 
 <p>Logically, this logistical predicament was solved by creating a six million pound mobile vehicle: The Crawler-Transporter. 
 With the dimensions of 131 by 114 feet, the Crawler is the largest operational vehicle to date.
@@ -27,7 +27,7 @@ Unfortunately, the Crawler crew has been operationally dormant since the conclus
 As SLS development progresses, the Crawler will renew itself and come back.</p> 
 
 <p>Here is a picture of me next to the command module of the vehicle.
-*note the scale of the vehicle 
+*note the scale of the vehicle*
  </p>
 
 
