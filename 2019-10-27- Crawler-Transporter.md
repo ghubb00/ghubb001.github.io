@@ -24,7 +24,11 @@ In approximately 4 years, the Ohio-based mining equipment company Marion Power S
 <p>The engineer I shadowed was extremely enthusiastic and knowledgeable about his role in supporting launch systems.
 Unfortunately, the Crawler crew has been operationally dormant since the conclusion of the shuttle program.
 As SLS development progresses, the Crawler will renew itself and come back.</p> 
- 
+
+Here is a picture of me next to the command module of the vehicle.
+*note the scale of the vehicle 
+<img src="/images/GregandCrawler.jpeg" alt="A Picture of Me With The Crawler" width="400" />
+
 #### Memorable Facts:
 - The Crawler drive can position each of the 4 treads independently.
 - The Crawler is capable of turning around 360 degrees, but takes a day of 3-point maneuvers to do so.
