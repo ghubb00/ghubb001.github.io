@@ -42,6 +42,7 @@ As SLS development progresses, the Crawler will renew itself and come back.</p>
 - Before a rocket launch, the Crawler crew will regularly work over 16-hour shifts.  
  
 <p>This shadowing has been one of my most memorable experiences at Kennedy Space Center.  Ironically, I came into this internship familiar with the crawler transporter from its numerous appearances in popular culture.  Most notably, its brief appearance in transformers:
+</p>
 
 https://www.youtube.com/watch?v=aKRIbfs_U8c
 
@@ -49,5 +50,5 @@ https://www.youtube.com/watch?v=aKRIbfs_U8c
 https://www.nasa.gov/sites/default/files/167402main_crawlertransporters07.pdf
  
 https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19760012108.pdf
-</p>
+
 
