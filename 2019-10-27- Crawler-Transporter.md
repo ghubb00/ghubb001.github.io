@@ -1,5 +1,5 @@
-The NASA Crawler:
 <img src="/images/CrawlerPreliminaryConcept.PNG" alt="Crawler Concept" width="400" />
+The NASA Crawler:
 <p>Today I had the unique privilege of touring the iconic Crawler-Transporter. 
 This relic of the Apollo era has been used to transport every Kennedy Center rocket since 1965.
 Currently the crawler is under retrofitting for use on the SLS rocket.  
