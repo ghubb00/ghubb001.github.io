@@ -1,5 +1,6 @@
 <img src="/images/CrawlerPreliminaryConcept.PNG" alt="Crawler Concept" width="400" />
-The NASA Crawler:
+
+####The NASA Crawler:
 <p>Today I had the unique privilege of touring the iconic Crawler-Transporter. 
 This relic of the Apollo era has been used to transport every Kennedy Center rocket since 1965.
 Currently the crawler is under retrofitting for use on the SLS rocket.  
@@ -25,8 +26,11 @@ In approximately 4 years, the Ohio-based mining equipment company Marion Power S
 Unfortunately, the Crawler crew has been operationally dormant since the conclusion of the shuttle program.
 As SLS development progresses, the Crawler will renew itself and come back.</p> 
 
-Here is a picture of me next to the command module of the vehicle.
+<p>Here is a picture of me next to the command module of the vehicle.
 *note the scale of the vehicle 
+ </p>
+
+
 <img src="/images/GregandCrawler.jpeg" alt="A Picture of Me With The Crawler" width="400" />
 
 #### Memorable Facts:
