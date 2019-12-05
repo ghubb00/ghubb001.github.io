@@ -1,4 +1,4 @@
-##### Monitoring Variables using GBD debugger 
+#### Monitoring Variables using GBD debugger 
 
 One development tool I have recently been exposed to is the world of debugging.
 Initially, I was introduced to debugging practices in university coursework; however, these lessons only vaguely conveyed their usefulness in practical development.
@@ -12,18 +12,22 @@ In my case, I’ve used it exclusively the C++ source code, but it’s capabilit
 A trivial use case of GNU is to trace a variable though out a program.  This could be done using print statements, but GNU allows for ease of use and simplicity given a minor learning curve.  
 
 
-###### Example:
+##### Example:
 Using GDB, it is possible to monitor the value of a variable until a given watchpoint:
 
 watch point on the variable:
 
-` (gdb) watch var `
-` (gdb) cond <watchpoint_number> var>=value `
+```
+(gdb) watch var
+(gdb) cond <watchpoint_number> var>=value
+```
 
 logging to a file:
 
-` (gdb) set logging file <filename> `
-` (gdb) set logging on `
+``` 
+(gdb) set logging file <filename> 
+(gdb) set logging on 
+```
 
 GBD logs default to gdb.txt unless set otherwise
 
