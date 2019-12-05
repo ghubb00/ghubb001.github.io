@@ -2,7 +2,8 @@ Applying for internships is a daunting task, and for most college students, it i
 The application (including essays) should only take 1-2 hours – a small commitment for a life-changing paid experience.
 
 <img src="/images/nasa internship homepage.PNG" alt="NASA Internship Homepage" width="400" />
-https://nasa.force.com/s/login/
+
+<p> https://nasa.force.com/s/login/ </p>
 
 
 ##### Application
