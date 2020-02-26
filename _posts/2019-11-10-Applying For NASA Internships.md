@@ -1,3 +1,5 @@
+<img src="/images/gregNASAsuit.jpg" alt="me in a suit" width="400" />
+
 Applying for internships is a daunting task, and for most college students, it is a unique challenge.  If you meet the base requirements I’d encourage any interested students to apply.  Despite the perception that NASA is full of rocket scientists, NASA needs people from every discipline: this includes lawyers, communicators, psychologists, biologists, accountants, and more!
 The application (including essays) should only take 1-2 hours – a small commitment for a life-changing paid experience.
 
@@ -10,7 +12,7 @@ The application (including essays) should only take 1-2 hours – a small commit
 
 > Apply early as most positions have rolling admissions!
 
-The NASA internships website (circa 2019) is probably one of the most streamline internship application forms for STEM fields.
+The NASA internships website (circa 2019) is probably one of the most streamlined internship application forms for STEM fields.
 In order to ensure consideration, it is best to apply before the official deadline.
 Many positions are rolling in admissions meaning mentors procedurally select interns before the listed deadline.
 
@@ -32,7 +34,7 @@ My best advice would be to fully cover your NASA application and be prepared to 
 
 After this stage, it really depends on how your prospective mentor wants to gauge you. 
 In terms of software engineering internships, don’t expect coding challenges or anything like that. 
-I’d expect topical software development questions related which should be somewhat easy - depending on your previous coursework. 
+I’d expect topical software development questions which should be somewhat easy depending on your previous coursework. 
 
 Couple questions off the top of my head:
 - What is unit testing?
