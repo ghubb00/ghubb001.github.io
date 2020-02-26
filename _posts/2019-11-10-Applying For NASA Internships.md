@@ -1,9 +1,9 @@
-<img src="/images/gregNASAsuit.jpg" alt="me in a suit" width="400" />
+<img src="/images/gregNASAsuitflip.jpg" alt="me in a suit" width="400" />
 
 Applying for internships is a daunting task, and for most college students, it is a unique challenge.  If you meet the base requirements I’d encourage any interested students to apply.  Despite the perception that NASA is full of rocket scientists, NASA needs people from every discipline: this includes lawyers, communicators, psychologists, biologists, accountants, and more!
 The application (including essays) should only take 1-2 hours – a small commitment for a life-changing paid experience.
 
-<img src="/images/nasa internship homepage.PNG" alt="NASA Internship Homepage" width="400" />
+<img src="/images/nasa internship homepage.PNG" alt="NASA Internship Homepage" width="400" class="rotateimg180"/>
 
 <p> https://nasa.force.com/s/login/ </p>
 
