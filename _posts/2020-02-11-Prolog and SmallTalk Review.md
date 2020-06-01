@@ -41,7 +41,7 @@ for (int i = 0; i<n; i++)
 return sum;
 }
 ```
-** Prolog **
+**Prolog**
 
 Prolog is a declarative language.  The given code is written in an imperative manner such that the language describes how to compute a solution.  To implement the given code in Prolog, the program must consist of rules and logical relationships that ascribe meaning to the application.  When a program is prompted an input, the run time system searches though the declared rules (by logical deduction) to produce an output.  
 
