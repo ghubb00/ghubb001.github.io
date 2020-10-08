@@ -4,8 +4,7 @@ permalink: /blog/:year/:month/:day/:title
 theme: jekyll-theme-minimal
 
 # Build settings
-markdown: kramdown
-theme: jekyll-theme-cayman
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
