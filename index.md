@@ -33,7 +33,6 @@ title: Gregory Hubbard, Computer Engineer
 	</p>
 	
 
-	
-	</p>
+
 	
 </div><!-- /.blurb -->
