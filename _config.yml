@@ -2,4 +2,11 @@ name: Gregory Hubbard, Computer Engineer
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 theme: jekyll-theme-cayman
-repository: sergodeeva/sergodeeva.github.io
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-redirect-from
