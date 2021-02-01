@@ -26,8 +26,8 @@ title: Gregory Hubbard, Computer Engineer
 	</p>
 	
 	<p>
-	<br>TOPICAL REVIEW OF VULNERABILITY MANAGEMENT FOR LOCAL HAMPTON ROADS INDUSTRY
-	<br><small>G. Hubbard, M. Eunice; Center for Cybersecurity and Research, Old Dominion University, AECOM</small>
+	<br>Hubbard, Gregory W. Jr. and Eunice, Matthew (2020) "Topical Review of Vulnerability Management for Local Hampton Roads Industry," OUR Journal: ODU Undergraduate 		Research Journal: Vol. 7 , Article 4.</small>
+	<br>DOI: 10.25778/41cp-yf83</small>
 	<br><a href="https://digitalcommons.odu.edu/ourj/vol7/iss1/4/">Published to OUR Journal: ODU Undergraduate Research Journal</a>
 	<br><a href="/doc/cyber paper IEEE format.pdf" download>report</a>
 	</p>
