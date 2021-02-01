@@ -3,13 +3,17 @@ layout: default
 title: Gregory Hubbard, Computer Engineer
 ---
 <div class="blurb">
+	<hr> 
 	<h1>Gregory Hubbard</h1>
+	<hr> 
 	<p>
 	</p>
 	
 	<img src="images/KSC Storm.jpg" alt = "VAB Before a storm">
 	<p style = "text -align:center;">
-	<h5>Research</h5>
+	<hr> 
+	<h3>Research</h3>
+	<hr> 
 	</p>
 		
 	<p>
