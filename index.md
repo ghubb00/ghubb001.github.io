@@ -9,28 +9,27 @@ title: Gregory Hubbard, Computer Engineer
 	
 	<img src="images/KSC Storm.jpg" alt = "VAB Before a storm">
 	<p style = "text -align:center;">
-	<b>Research</b>
+	<h5>Research</h5>
 	</p>
 		
 	<p>
-	<br>Realistic Data Generation And Publication For Launch Control Systems
+	<br><em>Realistic Data Generation And Publication For Launch Control Systems</em>
 	<br><small>G. Hubbard; Spaceport Command and Control Software Intern, Kennedy Space Center</small>
-	<br><a href="/doc/G.Hubbard_Realistic Data Generation and Publication for Launch Control Systems.pdf" download>report</a>
-	<br><a href="/doc/STIDAA_91467.pdf" download>stidaa release approval</a>
+	<br><small><a href="/doc/G.Hubbard_Realistic Data Generation and Publication for Launch Control Systems.pdf" download>report</a></small>
+	<br><small><a href="/doc/STIDAA_91467.pdf" download>stidaa release approval</a></small>
 	</p>	
 	
 	<p>
-	Normalization On Visual Data For Categorization
+	<em>Normalization On Visual Data For Categorization</em>
 	<br><small>G. Hubbard, O. Schwartz, L. Sanchez Giraldo; REU 2019;Computer Science, University of Miami</small>
-	<br><a href="/doc/NORMALIZATION ON VISUAL DATA FOR CATEGORIZATION_Abstract_GregoryHubbard.pdf" download>abstract</a>
+	<br><small><a href="/doc/NORMALIZATION ON VISUAL DATA FOR CATEGORIZATION_Abstract_GregoryHubbard.pdf" download>abstract</a></small>
 	</p>
 	
 	<p>
-	Topical Review of Vulnerability Management for Local Hampton Roads Industry
+	<em>Topical Review of Vulnerability Management for Local Hampton Roads Industry</em>
 	<br><small>Hubbard, Gregory W. Jr. and Eunice, Matthew (2020) "Topical Review of Vulnerability Management for Local Hampton Roads Industry," OUR Journal: ODU Undergraduate 		Research Journal: Vol. 7 , Article 4.</small>
 	<br><small>DOI: 10.25778/41cp-yf83</small>
-	<br><a href="https://digitalcommons.odu.edu/ourj/vol7/iss1/4/">Published to OUR Journal: ODU Undergraduate Research Journal</a>
-	<br><a href="/doc/cyber paper IEEE format.pdf" download>report</a>
+	<br><small><a href="https://digitalcommons.odu.edu/ourj/vol7/iss1/4/">Published to OUR Journal: ODU Undergraduate Research Journal</a></small>
 	</p>
 	
 
