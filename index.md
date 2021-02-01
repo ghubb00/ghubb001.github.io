@@ -10,9 +10,9 @@ title: Gregory Hubbard, Computer Engineer
 	</p>
 	
 	<img src="images/KSC Storm.jpg" alt = "VAB Before a storm">
-	size="20" noshade
+	<hr size="20" noshade>
 	<h3>Research</h3>
-	size="20" noshade
+	<hr size="20" noshade>
 	
 		
 	<p>
