@@ -10,11 +10,10 @@ title: Gregory Hubbard, Computer Engineer
 	</p>
 	
 	<img src="images/KSC Storm.jpg" alt = "VAB Before a storm">
-	<p style = "text -align:center;">
 	<hr> 
 	<h3>Research</h3>
 	<hr> 
-	</p>
+	
 		
 	<p>
 	<br><em>Realistic Data Generation And Publication For Launch Control Systems</em>
