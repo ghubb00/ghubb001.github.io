@@ -24,7 +24,7 @@ title: Gregory Hubbard, Computer Engineer
 	
 	<p>
 	<em>Normalization On Visual Data For Categorization</em>
-	<br><small>G. Hubbard, O. Schwartz, L. Sanchez Giraldo; REU 2019;Computer Science, University of Miami</small>
+	<br><small>G. Hubbard, O. Schwartz, L. Sanchez Giraldo; REU 2019;Computational Neuroscience, University of Miami</small>
 	<br><small><a href="/doc/NORMALIZATION ON VISUAL DATA FOR CATEGORIZATION_Abstract_GregoryHubbard.pdf" download>abstract</a></small>
 	</p>
 	
