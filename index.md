@@ -25,9 +25,10 @@ title: Gregory Hubbard, Computer Engineer
 	<br><small>Hubbard, Gregory (2021) "Carbon Dioxide And Particulate Matter Concentration on Hampton Roads Air Quality," OUR Journal: ODU 		Undergraduate Research Journal: Vol. 8 , Article 4. </small>
 	<br><small>DOI: 10.25778/whsm-8a85</small>
 	<br><small><a href="https://digitalcommons.odu.edu/ourj/vol8/iss1/4">Published to OUR Journal: ODU Undergraduate Research Journal</a></small>
-	</p>	
+	</p>
+	
 	<p>
-	<br><em>Realistic Data Generation And Publication For Launch Control Systems</em>
+	<em>Realistic Data Generation And Publication For Launch Control Systems</em>
 	<br><small>G. Hubbard; Spaceport Command and Control Software Intern, Kennedy Space Center</small>
 	<br><small><a href="/doc/G.Hubbard_Realistic Data Generation and Publication for Launch Control Systems.pdf" download>report</a></small>
 	<br><small><a href="/doc/STIDAA_91467.pdf" download>stidaa release approval</a></small>
