@@ -17,7 +17,7 @@ title: Gregory Hubbard, Computer Engineer
 	<p>
 	<em>Two-Stage Transfer Learning for Facial Expression Classification in Children</em>
 	<br><small>Hubbard, Gregory; Witherow, Megan; and Iftekharuddin, Khan, "Two-Stage Transfer Learning for Facial Expression Classification in 		Children" (2022). Undergraduate Research Symposium. 15. </small>
-	<br><small><a href="https://digitalcommons.odu.edu/undergradsymposium/2022/posters/15/">Presented at 2022 Undergraduate Research Symposium</a></small>
+	<br><small><a href="https://digitalcommons.odu.edu/undergradsymposium/2022/posters/15/">ODU 2022 Undergraduate Research Symposium Presentation</a></small>
 	</p>
 	
 	<p>
@@ -25,8 +25,7 @@ title: Gregory Hubbard, Computer Engineer
 	<br><small>Hubbard, Gregory (2021) "Carbon Dioxide And Particulate Matter Concentration on Hampton Roads Air Quality," OUR Journal: ODU 		Undergraduate Research Journal: Vol. 8 , Article 4. </small>
 	<br><small>DOI: 10.25778/whsm-8a85</small>
 	<br><small><a href="https://digitalcommons.odu.edu/ourj/vol8/iss1/4">Published to OUR Journal: ODU Undergraduate Research Journal</a></small>
-	</p>
-		
+	</p>	
 	<p>
 	<br><em>Realistic Data Generation And Publication For Launch Control Systems</em>
 	<br><small>G. Hubbard; Spaceport Command and Control Software Intern, Kennedy Space Center</small>
