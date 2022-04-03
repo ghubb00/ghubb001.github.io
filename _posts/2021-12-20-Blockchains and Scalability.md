@@ -52,8 +52,6 @@ The block is the most fundamental element of the blockchain. As the name implies
 
 Each block represents of a node containing a block header and a block body. In the case of cryptocurrencies, the block body contains a collection of recent transaction information. The block header contains a unique hash that differentiates the current block every other block on the network [9].
 
-In summary, the general case of this &quot;linkage&quot; can be represented as follows: Each block _B __i_\&gt;0 is immutably connected to its unique predecessor _B__ i_−1. The link between the two blocks is confirmed though the cryptographic hash function _H_(_B__i_−1). Any post connection changes to _B__i_−1 would result in an invalid _B__i_ hash. This prevents the modification of blockchain history [10].
-
 One of the most important aspects of blockchain technology is the implied support of a decentralized and trust-less leger. While centralized &quot;private&quot; blockchains do exist for specific use cases, the majority of blockchains are public and thus decentralized. In reference to blockchain &quot;authority&quot; Vitalik Buterin (a co-creator of Ethereum claims) -
 
 &quot;Blockchains are politically decentralized (no one controls them) and architecturally decentralized (no infrastructural central point of failure) but they are logically centralized (there is one commonly agreed state and the system behaves like a single computer)&quot; [11].
