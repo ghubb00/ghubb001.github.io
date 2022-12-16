@@ -1,4 +1,4 @@
-name: Gregory Hubbard, computer scientist
+name: Gregory Hubbard
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 theme: jekyll-theme-minimal
