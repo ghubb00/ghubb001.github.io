@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Gregory Hubbard, Computer Scientist
+title: Gregory Hubbard
 ---
 <div class="blurb">
 	<hr> 
